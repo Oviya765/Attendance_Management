@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "id": "9fdb",
+      "username": "Mythili",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "mythili@gmail.com",
+      "year": "I",
+      "dob": "2005-09-29",
+      "category": "student",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "9fdb",
+      "username": "abi",
+      "password": "234",
+      "confirmPassword": "234",
+      "department": "CSE",
+      "section": "B",
+      "email": "abi@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "staff",
+      "RegisterNo": "15CS98"
+    },
+    {
+      "id": "9fdb",
+      "username": "kavi",
+      "password": "2345",
+      "confirmPassword": "2345",
+      "department": "IT",
+      "section": "B",
+      "email": "kavi@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "staff",
+      "RegisterNo": "15IT18"
+    },
+    {
+      "id": "9fdb",
+      "username": "soundariya",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "soundariya@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "admin",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "9fdb",
+      "username": "oviya",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "oviya@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "admin",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "9fdb",
+      "username": "madhu",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "madhu@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "admin",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "9fdb",
+      "username": "naveena",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "naveena@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "admin",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "9fdb",
+      "username": "mouleeka",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE",
+      "section": "B",
+      "email": "mouleeka@gmail.com",
+      "year": "II",
+      "dob": "2005-09-29",
+      "category": "admin",
+      "RegisterNo": "727822TUCS119"
+    },
+    {
+      "id": "1bc5",
+      "username": "ragavi",
+      "password": "ragavi@2005",
+      "confirmPassword": "ragavi@2005",
+      "department": "CSE",
+      "section": "II",
+      "email": "ragavi@gmail.com",
+      "year": "",
+      "dob": "2005-08-12",
+      "category": "student",
+      "RegisterNo": "727822TUCS178",
+      "sec": "B"
+    },
+    {
+      "id": "0dd7",
+      "username": "anu",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE-CS",
+      "section": "II",
+      "email": "anu@gmail.com",
+      "year": "",
+      "dob": "2003-04-23",
+      "category": "student",
+      "RegisterNo": "727822TUCS147",
+      "sec": "B"
+    },
+    {
+      "id": "d3ea",
+      "username": "abinaya",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "department": "CSE-IOT",
+      "section": "II",
+      "email": "abinaya@gmail.com",
+      "year": "",
+      "dob": "1998-10-09",
+      "category": "staff",
+      "RegisterNo": "727822TUCS123",
+      "sec": "A"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "5868",
+      "date": "2024-03-04",
+      "records": [
+        {
+          "studentId": "727822TUCS119",
+          "name": "Mythili",
+          "department": "CSE",
+          "year": "II",
+          "date": "2024-03-04",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727822TUCS146",
+          "name": "kaviya",
+          "department": "IT",
+          "year": "",
+          "sec": "B",
+          "date": "2024-03-04",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727822TUCS001",
+          "name": "abinaya",
+          "department": "CSE-IOT",
+          "year": "",
+          "sec": "A",
+          "date": "2024-03-04",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "0d18",
+      "date": "2024-03-05",
+      "records": [
+        {
+          "studentId": "727822TUCS119",
+          "name": "Mythili",
+          "department": "CSE",
+          "year": "II",
+          "date": "2024-03-05",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727822TUCS146",
+          "name": "kaviya",
+          "department": "IT",
+          "year": "",
+          "sec": "B",
+          "date": "2024-03-05",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727822TUCS001",
+          "name": "abinaya",
+          "department": "CSE-IOT",
+          "year": "",
+          "sec": "A",
+          "date": "2024-03-05",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727822TUCS178",
+          "name": "ragavi",
+          "department": "CSE",
+          "year": "",
+          "sec": "B",
+          "date": "2024-03-05",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "3db1",
+      "date": "2024-03-26",
+      "records": [
+        {
+          "studentId": "727822TUCS119",
+          "name": "Mythili",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-26",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727822TUCS178",
+          "name": "ragavi",
+          "department": "CSE",
+          "year": "",
+          "sec": "B",
+          "date": "2024-03-26",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727822TUCS147",
+          "name": "anu",
+          "department": "CSE-CS",
+          "year": "",
+          "sec": "B",
+          "date": "2024-03-26",
+          "attendances": "Present"
+        }
+      ]
+    }
+  ]
+}
